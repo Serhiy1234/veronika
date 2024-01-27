@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+html {
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/21/16/16/architecture-1846214_640.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+html {
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/21/16/16/architecture-1846214_640.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+img{
+  text-align: center;
+}
